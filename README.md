@@ -6,7 +6,8 @@ In this project, you are required to do socket programming in C programming to i
 ![table](https://github.com/vasireddyujwala/TCP-IP-Socket-Programming/assets/92040231/0570957e-42e6-4358-8637-6e9cdf11cef9)
 
 For example. If the Client sends a pair of user id and password values as: "davi0027" and "Crc51RqV ", the server retrieves the Account number as 14632873 and Balance as 70,000
-[image]
+![client_server](https://github.com/vasireddyujwala/TCP-IP-Socket-Programming/assets/92040231/9f2806de-c361-4550-9015-cd0eb138b655)
+
 Your client and server programs entail to achieve the following requirements:
 1. Your client program needs to take two arguments that specify the name of server and the port that it is trying to connect to. Your program for server needs to take an argument that specifies the port that it is listening to. You can use (5000+last 4 digits of your student-id number) to avoid requesting same port by multiple students.
 2. The server program will start first and keep listening to the specified port. Your client will connect to the port that your server is listening to, and a socket between your client and server is constructed.
