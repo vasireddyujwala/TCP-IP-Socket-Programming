@@ -3,7 +3,7 @@
 The objective of this first programming project is to learn TCP iterative client-server interaction using socket interface in C programming language. After completing the project, you will have a basic understanding of the steps required to develop a networking application.
 ## Project Specification
 In this project, you are required to do socket programming in C programming to implement a pair of client and server that can achieve simple password verification to indicate the account number and balance. Your client will send a pair of user id and password to your server and your server will verify whether the pair of user id and password is legitimate or not for retrieving the account number and balance. Assume the only legitimate pairs of user id and passwords that will be accepted by your server are as follows:
-[image]
+![table](https://github.com/vasireddyujwala/TCP-IP-Socket-Programming/assets/92040231/0570957e-42e6-4358-8637-6e9cdf11cef9)
 For example. If the Client sends a pair of user id and password values as: "davi0027" and "Crc51RqV ", the server retrieves the Account number as 14632873 and Balance as 70,000
 [image]
 Your client and server programs entail to achieve the following requirements:
